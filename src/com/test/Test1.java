@@ -1,6 +1,7 @@
 package com.test;
 
 public class Test1 {
-	//111111111
-	//2222
+	public static void main(String[] args) {
+		
+	}
 }
