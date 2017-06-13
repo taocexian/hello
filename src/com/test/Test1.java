@@ -6,4 +6,8 @@ public class Test1 {
 		//222222222 
 		//111111111 
 	}
+	
+	private void s() {
+		
+	}
 }
